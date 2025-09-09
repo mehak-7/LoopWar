@@ -136,7 +136,7 @@ loopwar/
 ```
 ---
 
-## 💡 Future Plans
+## 💡 Our Plans
 🧠 AI-generated problems
 
 👑 Leaderboard & global ranking
